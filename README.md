@@ -1,2 +1,2 @@
-# DarkCyberv19.py
+# DarkCyberv19
 recode mandul!
